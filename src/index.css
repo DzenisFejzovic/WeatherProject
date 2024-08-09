@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+
+  height: 700px;
+  background-image: radial-gradient(
+    circle farthest-corner at 50% 50%,
+    rgb(33, 33, 33) 20%,
+    rgb(29, 29, 29) 40%,
+    rgb(20, 20, 20) 60%,
+    rgb(16, 16, 16) 80%,
+    rgb(0, 0, 0) 100%
+  );
+}
+/* rgb(183, 255, 239),
+rgb(255, 238, 162),
+rgb(151, 255, 139) */
